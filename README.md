@@ -53,29 +53,14 @@ Bot, Discord.js v14 ile uyumludur ve modern slash komutları ile kullanıcı dos
 
 ## ⚙️ Kurulum ve Başlatma
 
-Tüm adımlar tek blok hâlinde:
+1. Node.js’i yükleyin (v14 veya üzeri önerilir).  
+2. Proje dizininde gerekli paketleri yükleyin:
 
 ```bash
-
-
 # 1. Node.js ve gerekli paketleri yükleyin
-npm install
+ npm install
 
 # 2. .env dosyası oluşturun ve Discord bot token, client ID ve sunucu ID ekleyin
-# Örnek .env içeriği:
-# Discord bot tokeni
-TOKEN=YOUR_BOT_TOKEN
-# Discord uygulama Client ID'si
-CLIENT_ID=YOUR_CLIENT_ID
-# Hedef Discord sunucusunun ID'si
-GUILD_ID=YOUR_GUILD_ID
 
-# 3. .gitignore dosyası ekleyin ve gereksiz/gizli dosyaları ekleyin
-node_modules/
-.env
-logs/
-*.log
-dist/
-
-# 5. Botu başlatın
-node index.js
+# 3. Botu başlatın baslat.bat tıklayıp çalıştırın
+baslat.bat
