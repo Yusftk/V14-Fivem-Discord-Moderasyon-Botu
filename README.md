@@ -56,13 +56,12 @@ Bot, Discord.js v14 ile uyumludur ve modern slash komutları ile kullanıcı dos
 Tüm adımlar tek blok hâlinde:
 
 ```bash
-# 1. Repository'i klonlayın
-git clone https://github.com/KULLANICI_ADINIZ/V14-Fivem-Discord-Moderasyon-Botu.git
 
-# 2. Node.js ve gerekli paketleri yükleyin
+
+# 1. Node.js ve gerekli paketleri yükleyin
 npm install
 
-# 3. .env dosyası oluşturun ve Discord bot token, client ID ve sunucu ID ekleyin
+# 2. .env dosyası oluşturun ve Discord bot token, client ID ve sunucu ID ekleyin
 # Örnek .env içeriği:
 # Discord bot tokeni
 TOKEN=YOUR_BOT_TOKEN
@@ -71,7 +70,7 @@ CLIENT_ID=YOUR_CLIENT_ID
 # Hedef Discord sunucusunun ID'si
 GUILD_ID=YOUR_GUILD_ID
 
-# 4. .gitignore dosyası ekleyin ve gereksiz/gizli dosyaları ekleyin
+# 3. .gitignore dosyası ekleyin ve gereksiz/gizli dosyaları ekleyin
 node_modules/
 .env
 logs/
