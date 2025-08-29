@@ -53,8 +53,8 @@ Bot, Discord.js v14 ile uyumludur ve modern slash komutları ile kullanıcı dos
 
 ## ⚙️ Kurulum ve Başlatma
 
-1. Node.js’i yükleyin (v14 veya üzeri önerilir).  
-2. Proje dizininde gerekli paketleri yükleyin:
+Node.js’i yükleyin (v14 veya üzeri önerilir).  
+Proje dizininde gerekli paketleri yükleyin:
 
 ```bash
 # 1. Node.js ve gerekli paketleri yükleyin
