@@ -17,8 +17,6 @@ Bot, Discord.js v14 ile uyumludur ve modern slash komutları ile kullanıcı dos
 7. Sunucu durum kontrolü ve bakım modu  
 8. IP sorgulama  
 9. Sunucu restart komutu  
-10. Event desteği (`ready` eventi ile otomatik başlatma)  
-
 ---
 
 ## 🛠️ Komut Listesi
