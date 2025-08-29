@@ -5,7 +5,7 @@ Bu bot, birçok büyük Fivem sunucusunun Discord topluluklarında test edilmiş
 
 İsteğe bağlı olarak log sistemi entegre edilebilir; böylece tüm moderasyon işlemleri kaydedilir ve takip edilebilir. Bot, modern slash komutları ve esnek yapısı sayesinde hem deneyimli yöneticiler hem de yeni başlayanlar tarafından rahatlıkla kullanılabilir ve kolayca özelleştirilebilir.  
 
-Bot ile ilgili sorularınız veya destek talepleriniz için Discord üzerinden doğrudan iletişime geçebilirsiniz: **.yusf**.  
+Bot ile ilgili sorularınız veya destek talepleriniz için Discord üzerinden doğrudan iletişime geçebilirsiniz: discord adresim (**.yusf**).  
 Kısacası, bu bot sunucunuzu hem güvenli hem de düzenli bir şekilde yönetmenizi sağlar ve Fivem topluluğu tarafından güvenle tercih edilmektedir.  
 
 
