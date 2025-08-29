@@ -1,8 +1,13 @@
 # V14-Fivem-Discord-Moderasyon-Botu
 
-Bu repository, **Fivem sunucuları için özel olarak geliştirilmiş bir Discord moderasyon botunu** içerir. Bot, sunucu yöneticilerinin ve moderatörlerin işlerini kolaylaştıracak kapsamlı komut seti ve olay yönetimi ile donatılmıştır.  
+Bu bot fivem sunucuları için özel olarak geliştirilmiş, güvenilir ve kapsamlı bir Discord moderasyon botudur.  
+Bu bot, birçok büyük Fivem sunucusunun Discord topluluklarında test edilmiş ve aktif olarak kullanılmaktadır. Sunucu yöneticileri ve moderatörler için rol yönetimi, ban/kick işlemleri, uyarı sistemi, kullanıcı bilgisi sorgulama gibi temel moderasyon özelliklerinin yanı sıra, sunucu durum kontrolü, bakım modu ve bot restart komutu gibi ek işlevler de sunar.  
 
-Bot, Discord.js v14 ile uyumludur ve modern slash komutları ile kullanıcı dostu bir deneyim sunar.  
+İsteğe bağlı olarak log sistemi entegre edilebilir; böylece tüm moderasyon işlemleri kaydedilir ve takip edilebilir. Bot, modern slash komutları ve esnek yapısı sayesinde hem deneyimli yöneticiler hem de yeni başlayanlar tarafından rahatlıkla kullanılabilir ve kolayca özelleştirilebilir.  
+
+Bot ile ilgili sorularınız veya destek talepleriniz için Discord üzerinden doğrudan iletişime geçebilirsiniz: **.yusf**.  
+Kısacası, bu bot sunucunuzu hem güvenli hem de düzenli bir şekilde yönetmenizi sağlar ve Fivem topluluğu tarafından güvenle tercih edilmektedir.  
+
 
 ---
 
@@ -17,6 +22,8 @@ Bot, Discord.js v14 ile uyumludur ve modern slash komutları ile kullanıcı dos
 7. Sunucu durum kontrolü ve bakım modu  
 8. IP sorgulama  
 9. Sunucu restart komutu  
+10. Event desteği (`ready` eventi ile otomatik başlatma)  
+
 ---
 
 ## 🛠️ Komut Listesi
