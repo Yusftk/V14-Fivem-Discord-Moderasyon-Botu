@@ -56,6 +56,25 @@ Kısacası, bu bot sunucunuzu hem güvenli hem de düzenli bir şekilde yönetme
 
 ---
 
+4️⃣ Discord botunuz için gerekli izinleri açın (Privileged Gateway Intents)
+
+Botun moderasyon komutlarını doğru şekilde çalıştırabilmesi için bazı özel izinleri etkinleştirmeniz gerekir:
+
+Discord Developer Portal
+ sayfasına gidin ve botunuzu seçin.
+
+Sol menüden Bot sekmesine tıklayın.
+
+Privileged Gateway Intents bölümünde aşağıdaki seçenekleri aktif edin:
+
+Presence Intent → Kullanıcıların durumlarını görebilmek için
+
+Server Members Intent → Sunucu üyelerini takip edebilmek için
+
+Message Content Intent → Mesaj içeriklerini okuyabilmek için
+
+Bu ayarlar özellikle moderasyon komutları, uyarı sistemi ve kullanıcı sorgulamaları için gereklidir.
+
 ## ⚙️ Kurulum ve Başlatma
 
 Node.js’i yükleyin (v14 veya üzeri önerilir).  
