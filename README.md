@@ -96,5 +96,99 @@ baslat.bat
 Bu botu faydalı bulduysanız, projenin gelişimine katkıda bulunmak için GitHub reposuna **star verebilirsiniz**.  
 Her star, projenin sürdürülebilirliği ve topluluğa sağladığı faydayı artırmak için büyük bir motivasyon kaynağıdır.  
 
+---
 
+# V14-Fivem-Discord-Moderation-Bot
 
+This bot is a reliable and comprehensive Discord moderation bot developed specifically for FiveM servers. It has been tested and is actively used in the Discord communities of many large FiveM servers. In addition to essential moderation features like role management, ban/kick actions, a warning system, and user info queries for server admins and moderators, it also offers extra functions like server status checks, maintenance mode, and a bot restart command.
+
+An optional logging system can be integrated to record and track all moderation actions. Thanks to its modern slash commands and flexible structure, the bot can be easily used by both experienced admins and newcomers and can be customized with ease.
+
+For any questions or support requests about the bot, you can contact me directly on Discord: my Discord handle is **.yusf**.
+
+In short, this bot allows you to manage your server in a safe and organized way and is a trusted choice within the FiveM community.
+
+-----
+
+## ⚡ Features
+
+1.  Full moderation support for server management
+2.  Fast and modern usage with slash commands
+3.  Warning system and warning management
+4.  Role management (give/take)
+5.  Ban, Unban, and Kick actions
+6.  User info and avatar lookup
+7.  Server status check and maintenance mode
+8.  IP lookup
+9.  Server restart command
+10. Event support (automatic startup with the `ready` event)
+
+-----
+
+## 🛠️ Command List
+
+| Command | Description |
+| :--- | :--- |
+| `/aktif` | Lists active users on the server |
+| `/avatar` | Shows a user's avatar |
+| `/bakım` | Puts the server in maintenance mode or closes it |
+| `/ban` | Bans the specified user |
+| `/unban` | Unbans a user |
+| `/kick` | Kicks the specified user from the server |
+| `/nick` | Changes a user's nickname |
+| `/rolver` | Gives a role to a user |
+| `/rolal` | Takes a role from a user |
+| `/warn` | Adds a warning to a user |
+| `/clear-warn` | Deletes all of a user's warnings |
+| `/list-warns` | Lists a user's warnings |
+| `/ip` | Queries a user's IP information |
+| `/restart` | Restarts the bot |
+| `/kapalı` | Disables a command or server status |
+
+> All commands can be used as slash commands and offer a user-friendly experience.
+
+-----
+
+## 🔔 Events
+
+  - **`ready` event:** When the bot starts, it loads all necessary settings and registers the slash commands.
+
+-----
+
+### 4️⃣ Enable Required Permissions for Your Discord Bot (Privileged Gateway Intents)
+
+For the bot's moderation commands to work correctly, you need to enable some special permissions:
+
+Go to the Discord Developer Portal page and select your bot.
+
+In the left menu, click on the **Bot** tab.
+
+Under the **Privileged Gateway Intents** section, activate the following options:
+
+  * **Presence Intent** → To be able to see user statuses
+  * **Server Members Intent** → To be able to track server members
+  * **Message Content Intent** → To be able to read message content
+
+These settings are especially necessary for moderation commands, the warning system, and user queries.
+
+## ⚙️ Setup and Startup
+
+Install Node.js (v14 or higher is recommended).
+Install the required packages in the project directory:
+
+```bash
+# 1. Install Node.js and the necessary packages
+npm install
+
+# 2. Create a .env file and add your Discord bot token, client ID, and server ID
+
+# 3. Start the bot by clicking and running baslat.bat
+baslat.bat
+```
+
+-----
+
+## ⭐ Support the Project
+
+If you found this bot useful, you can **star** the GitHub repository to contribute to its development.
+Every star is a great source of motivation to keep the project going and increase its benefit to the community.
