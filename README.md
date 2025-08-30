@@ -88,3 +88,13 @@ Proje dizininde gerekli paketleri yükleyin:
 
 # 3. Botu başlatın baslat.bat tıklayıp çalıştırın
 baslat.bat
+
+---
+
+## ⭐ Projeyi Destekleyin
+
+Bu botu faydalı bulduysanız, projenin gelişimine katkıda bulunmak için GitHub reposuna **star verebilirsiniz**.  
+Her star, projenin sürdürülebilirliği ve topluluğa sağladığı faydayı artırmak için büyük bir motivasyon kaynağıdır.  
+
+
+
