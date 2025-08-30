@@ -88,7 +88,7 @@ Proje dizininde gerekli paketleri yükleyin:
 
 # 3. Botu başlatın baslat.bat tıklayıp çalıştırın
 baslat.bat 
-
+```
 ---
 
 ## ⭐ Projeyi Destekleyin
