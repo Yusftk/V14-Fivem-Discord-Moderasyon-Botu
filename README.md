@@ -87,7 +87,7 @@ Proje dizininde gerekli paketleri yükleyin:
 # 2. .env dosyası oluşturun ve Discord bot token, client ID ve sunucu ID ekleyin
 
 # 3. Botu başlatın baslat.bat tıklayıp çalıştırın
-baslat.bat
+baslat.bat 
 
 ---
 
@@ -96,7 +96,7 @@ baslat.bat
 Bu botu faydalı bulduysanız, projenin gelişimine katkıda bulunmak için GitHub reposuna **star verebilirsiniz**.  
 Her star, projenin sürdürülebilirliği ve topluluğa sağladığı faydayı artırmak için büyük bir motivasyon kaynağıdır.  
 
----
+--- 
 
 # V14-Fivem-Discord-Moderation-Bot
 
